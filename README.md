@@ -1,0 +1,2 @@
+## カスタムオートロード付きPHPStan
+PhpstanAssignFiles.phpに解析したいファイルパスを渡すことで、ドメイン単位でPHPStanの設定、実行を行う。
